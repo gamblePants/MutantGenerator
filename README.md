@@ -33,11 +33,11 @@ There are 2 projects within the Visual Studio solution: Engine and MutantGenerat
 
 Most of the classes are for creating the character structure and properties; one class for the character's animal type, one class for the character's background, one class for the character's story etc. 
 
-Most of the classes also hold lists of data in them, such as the SKills.cs class; which contains the entire list of skills (called allSkills) and the methods to access the data.
+Most of the classes also hold lists of data in them, such as the Skills.cs class; which contains the entire list of skills (called allSkills) and the methods to access the data.
 
 ## Code snippets
 
-### List of "Gifts" from the Gifts.cs class
+### List of all gifts from the Gifts.cs class 
 
 ```C#
 allGifts = new List<Gifts>()
@@ -54,9 +54,9 @@ allGifts = new List<Gifts>()
             };
 ```
 
-Each Gift object has an ID (int), Name (string), Path (string) and how much it costs to purchase during character creation - Cost (int). The allGifts list is accessed by the AssignGifts() method below.
+The above list is shortened for this example. There are 60 gifts in total. Each Gift object has an ID (int), Name (string), Path that it belongs to (string) and how much it costs to purchase during character creation - Cost (int). The allGifts list is accessed by the AssignGifts() method below.
 
-### Assign gifts method from the Gifts.cs class
+### AssignGifts() method from the Gifts.cs class
 
 ```C#
 public static List<Gifts> AssignGifts(string path)
