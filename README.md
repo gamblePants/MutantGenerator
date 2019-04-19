@@ -37,7 +37,7 @@ Most of the classes also hold lists of data in them, such as the Skills.cs class
 
 ## Code snippets
 
-### List of all gifts from the Gifts.cs class 
+### List of gifts from the Gifts.cs class 
 
 ```C#
 allGifts = new List<Gifts>()
