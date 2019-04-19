@@ -10,4 +10,4 @@ As a tool for role-playing games. Designed for game-masters to roll a new charac
 
 ## How to run program
 
-Go to the "release" tab above, download the "MutantGenerator.zip" folder and extract. Inside the folder double-click on the MutantGenerator.exe file to run (runs on windows only).
+Go to the "release" tab above, download the "release.zip" folder and extract. Inside the folder double-click on the MutantGenerator.exe file to run (runs on windows only).
