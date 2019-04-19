@@ -1,6 +1,6 @@
 # MutantGenerator
 
-Winforms program (runs on Windows) that randomly generates characters for a role-playing game. When program runs it rolls a human character and displays it to the GUI. User has the option to roll a new human character, mutate the existing character, save the character, load a saved character, or print a screen capture of the GUI.
+WinForms program (runs on Windows) that randomly generates characters for a role-playing game. When program runs it rolls a human character and displays it to the GUI. User has the option to roll a new human character, mutate the existing character, save the character, load a saved character, or print a screen capture of the GUI.
 
 ![mutantGenerator.PNG](https://gamblepants.github.io/img/mutantGenerator.PNG)
 
