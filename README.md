@@ -39,7 +39,8 @@ Most of the classes also hold lists of data in them, such as the SKills.cs class
 
 ### List of "Gifts" from the Gifts.cs class
 
-```C#allGifts = new List<Gifts>()
+```C#
+allGifts = new List<Gifts>()
             {
                 new Gifts(01, "Summon Insects", "Crawling Chaos", 1), 
                 new Gifts(02, "Mutate", "Crawling Chaos", 1), 
@@ -57,7 +58,8 @@ Each Gift object has an ID (int), Name (string), Path (string) and how much it c
 
 ### Assign gifts method from the Gifts.cs class
 
-```C#public static List<Gifts> AssignGifts(string path)
+```C#
+public static List<Gifts> AssignGifts(string path)
         {
             List<Gifts> temp = new List<Gifts>();
             temp = allGifts.Where(a => a.Path == path).ToList();
