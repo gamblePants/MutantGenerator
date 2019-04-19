@@ -87,7 +87,7 @@ In the above method a new temporary list of gifts is created from allGifts (base
 
 int rnd is a random number between 1 and the number of remaining gifts left in the temporary list. If the character has enough points left to purchase the randomly selected gift it is added to their list of gifts, and removed from the temporary list (cannot get the same gift twice).
 
-When all 3 points are spend the list of gifts is ordered alphabetically and the method returns it.
+When all 3 points are spent the list of gifts is ordered alphabetically and the method returns it.
 
 ## Credits
 
