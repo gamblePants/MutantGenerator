@@ -10,7 +10,7 @@ As a tool for role-playing games. Designed for game-masters to roll a new charac
 
 ## How to run program
 
-Go to the "release" tab above, download the "Release.zip" folder and extract. Inside the folder double-click on the MutantGenerator.exe file to run (runs on windows only).
+Go to the [release](https://github.com/gamblePants/MutantGenerator/releases) page, download the "Release.zip" folder to your computer and extract it. Inside the folder double-click on the MutantGenerator.exe file to run (runs on windows only).
 
 ![mgRelease.PNG](https://gamblepants.github.io/img/mgRelease.PNG)
 
