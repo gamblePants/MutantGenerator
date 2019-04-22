@@ -14,6 +14,8 @@ Go to the "release" tab above, download the "Release.zip" folder and extract. In
 
 ![mgRelease.PNG](https://gamblepants.github.io/img/mgRelease.PNG)
 
+You might get a Windows Defender warning the first time running the program: "Windows protected your PC". Click on "More info" then "Run anyway" (or just "Run anyway").
+
 ## Functionality
 
 - running the program randomly generates a human
